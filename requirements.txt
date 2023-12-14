@@ -1,6 +1,12 @@
 numpy==1.23.5
+=======
+numpy
+>>>>>>> 170e3df (test and requirements)
 pillow
 pywavelets
 scipy
 scikit-learn
+<<<<<<< HEAD
+tqdm
+=======
 tqdm
